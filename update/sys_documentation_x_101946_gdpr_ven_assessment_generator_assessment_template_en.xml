@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="assessment_template" label="Assessment Template" language="en" table="x_101946_gdpr_ven_assessment_generator">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>assessment_template</element>
+            <help/>
+            <hint/>
+            <label>Assessment Template</label>
+            <language>en</language>
+            <name>x_101946_gdpr_ven_assessment_generator</name>
+            <plural>Assessment Templates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 06:39:34</sys_created_on>
+            <sys_id>e72a332b0f091300574f3b8ce1050e7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assessment Template</sys_name>
+            <sys_package display_value="GDPR: Vendor Assessment" source="x_101946_gdpr_ven">5356482c0f091300574f3b8ce1050e5e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GDPR: Vendor Assessment">5356482c0f091300574f3b8ce1050e5e</sys_scope>
+            <sys_update_name>sys_documentation_x_101946_gdpr_ven_assessment_generator_assessment_template_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 06:39:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

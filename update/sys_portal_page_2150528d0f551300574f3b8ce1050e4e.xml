@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-05-21 09:07:46">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_3_across_only">4127db33d7111100f2d224837e610336</layout>
+        <order/>
+        <read_roles>snc_internal,x_101946_gdpr_ven.assessor</read_roles>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-04 14:52:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2150528d0f551300574f3b8ce1050e4e</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>GDPR Assessment 360</sys_name>
+        <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="GDPR: Vendor Assessment">5356482c0f091300574f3b8ce1050e5e</sys_scope>
+        <sys_update_name>sys_portal_page_2150528d0f551300574f3b8ce1050e4e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-15 15:34:10</sys_updated_on>
+        <title>GDPR Assessment 360</title>
+        <user/>
+        <view>gdpr_assessment_overview</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="GDPR Assessment 360">2150528d0f551300574f3b8ce1050e4e</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                <sys_id>734483640f611300574f3b8ce1050e44</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">734483640f611300574f3b8ce1050e44</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>734483640f611300574f3b8ce1050e45</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>pivot_v2</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">734483640f611300574f3b8ce1050e44</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>774483640f611300574f3b8ce1050e45</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">734483640f611300574f3b8ce1050e44</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>7b4483640f611300574f3b8ce1050e44</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">734483640f611300574f3b8ce1050e44</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>7b4483640f611300574f3b8ce1050e45</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>GDPR Vendor Risk Compliance</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">734483640f611300574f3b8ce1050e44</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>7f4483640f611300574f3b8ce1050e44</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">734483640f611300574f3b8ce1050e44</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>f34483640f611300574f3b8ce1050e44</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>bc559e010f951300574f3b8ce1050e0b</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">734483640f611300574f3b8ce1050e44</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>ff4483640f611300574f3b8ce1050e45</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>2150528d0f551300574f3b8ce1050e4e</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="GDPR Assessment 360">2150528d0f551300574f3b8ce1050e4e</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                <sys_id>bf4483640f611300574f3b8ce1050e41</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">bf4483640f611300574f3b8ce1050e41</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>334483640f611300574f3b8ce1050e42</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>4171128d0f551300574f3b8ce1050e60</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">bf4483640f611300574f3b8ce1050e41</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>3f4483640f611300574f3b8ce1050e43</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>2150528d0f551300574f3b8ce1050e4e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">bf4483640f611300574f3b8ce1050e41</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>b34483640f611300574f3b8ce1050e43</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">bf4483640f611300574f3b8ce1050e41</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>b74483640f611300574f3b8ce1050e42</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">bf4483640f611300574f3b8ce1050e41</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>b74483640f611300574f3b8ce1050e43</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>Upcoming GDPR Vendor Risk Assessments</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">bf4483640f611300574f3b8ce1050e41</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>bb4483640f611300574f3b8ce1050e42</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">bf4483640f611300574f3b8ce1050e41</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>bf4483640f611300574f3b8ce1050e42</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>line</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="GDPR Assessment 360">2150528d0f551300574f3b8ce1050e4e</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                <sys_id>f74483640f611300574f3b8ce1050e3f</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">f74483640f611300574f3b8ce1050e3f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>7b4483640f611300574f3b8ce1050e3f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>1111564d0f551300574f3b8ce1050e98</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">f74483640f611300574f3b8ce1050e3f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>7b4483640f611300574f3b8ce1050e41</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>6c40964d0f551300574f3b8ce1050e62</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">f74483640f611300574f3b8ce1050e3f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>f34483640f611300574f3b8ce1050e40</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">f74483640f611300574f3b8ce1050e3f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>f34483640f611300574f3b8ce1050e41</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>Open GDPR Assessments</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">f74483640f611300574f3b8ce1050e3f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>f74483640f611300574f3b8ce1050e40</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">f74483640f611300574f3b8ce1050e3f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>fb4483640f611300574f3b8ce1050e40</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">f74483640f611300574f3b8ce1050e3f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>ff4483640f611300574f3b8ce1050e3f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-04-15 08:33:50">f74483640f611300574f3b8ce1050e3f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-15 15:33:50</sys_created_on>
+                        <sys_id>ff4483640f611300574f3b8ce1050e40</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-15 15:33:50</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

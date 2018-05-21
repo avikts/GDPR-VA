@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Assessment Generator" max_length="40" name="x_101946_gdpr_ven_assessment_generator" type="collection">
+        <element label="Assessment Template" mandatory="true" max_length="32" name="assessment_template" reference="sn_vdr_risk_asmt_template" reference_qual="nameLIKEGDPR^EQ" reference_qual_condition="nameLIKEGDPR^EQ" type="reference"/>
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" reference_qual="roles=sn_vdr_risk_asmt.vendor_assessor^EQ" reference_qual_condition="roles=sn_vdr_risk_asmt.vendor_assessor^EQ" type="reference"/>
+        <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="40" name="number" read_only="true" type="string" use_dynamic_default="true"/>
+        <element default="30" label="Planned Duration (days)" max_length="40" name="planned_duration_days" type="integer"/>
+        <element label="Planned End Date" max_length="40" name="planned_end_date" type="glide_date_time"/>
+        <element label="Planned Start Date" max_length="40" name="planned_start_date" type="glide_date_time"/>
+        <element label="Vendors" mandatory="true" max_length="4000" name="vendors" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="glide_list"/>
+        <index name="index">
+            <element name="assessment_template"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>
